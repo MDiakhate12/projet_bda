@@ -1,0 +1,14 @@
+requête sur les données pour les collecter et faire la prédiction
+
+
+prendre en compte les lunatiques
+
+mettre d'abord le focus sur les tortues régulières, fatiguées et cycliques: permet de valider le pipeline
+
+Commencer sur la tiny 
+
+Toutes les heures
+
+Faire des binomes de binome
+
+Il n'y a pas de lunatique dans le tiny 
